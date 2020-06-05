@@ -1,1 +1,2 @@
 # JAVA-8-SAM-INTERFACE
+Functional Interfaces are known as Single Abstract Method (SAM) in Java 8. These interfaces would have only one abstract method. The example interfaces are Runnanle,Callable, Comparator, etc. Java 8 has introduced Lambda Expressions to instantiate the interface and access the single abstract method easily
